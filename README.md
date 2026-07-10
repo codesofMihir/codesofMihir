@@ -9,7 +9,6 @@ src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MIHIR%20P
 ---
 
 <div align="center">
-# 👋 Hi, I'm Mihir Paul
 <img
 src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2200&pause=700&color=FF5500&center=true&vCenter=true&width=950&lines=%F0%9F%94%A5%20Full%20Stack%20Developer%20(Django)%3B%F0%9F%92%BB%20Obsessed%20with%20full-stack%20optimization%2C%20clean%20layouts%2C%20and%20responsive%20interfaces.%3B%F0%9F%9A%80%20Learning%3A%20Dynamic%20WebSockets%20%26%20serverless%20computing"
 />
