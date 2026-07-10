@@ -2,7 +2,7 @@
 <p align="center">
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MIHIR%20PAUL&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=0:FF007F,50:8A2BE2,100:00F0FF"
+src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MIHIR%20PAUL&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=0:ff3c00,50:ff6a00,100:ff0000"
 />
 </p>
 
@@ -11,11 +11,11 @@ src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MIHIR%20P
 <div align="center">
 # 👋 Hi, I'm Mihir Paul
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2200&pause=700&color=FF007F&center=true&vCenter=true&width=950&lines=%F0%9F%94%A5%20Full%20Stack%20Developer%20(Django)%3B%F0%9F%92%BB%20Obsessed%20with%20full-stack%20optimization%2C%20clean%20layouts%2C%20and%20responsive%20interfaces.%3B%F0%9F%9A%80%20Learning%3A%20Dynamic%20WebSockets%20%26%20serverless%20computing"
+src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2200&pause=700&color=FF5500&center=true&vCenter=true&width=950&lines=%F0%9F%94%A5%20Full%20Stack%20Developer%20(Django)%3B%F0%9F%92%BB%20Obsessed%20with%20full-stack%20optimization%2C%20clean%20layouts%2C%20and%20responsive%20interfaces.%3B%F0%9F%9A%80%20Learning%3A%20Dynamic%20WebSockets%20%26%20serverless%20computing"
 />
 <br><br>
 <img
-src="https://komarev.com/ghpvc/?username=codesofMihir&label=PROFILE+VIEWS&color=FF007F&style=for-the-badge"
+src="https://komarev.com/ghpvc/?username=codesofMihir&label=PROFILE+VIEWS&color=FF5500&style=for-the-badge"
 />
 </div>
 
@@ -55,9 +55,9 @@ src="https://komarev.com/ghpvc/?username=codesofMihir&label=PROFILE+VIEWS&color=
 ## 📱 CONNECT WITH ME
 <div align="center">
 <a href="https://instagram.com/codesofMihir">
-<img src="https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-FF5500?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/john_doe">
+<a href="www.linkedin.com/in/ mihir-paul-20822739b">
 <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/codesofMihir">
@@ -84,7 +84,7 @@ src="https://komarev.com/ghpvc/?username=codesofMihir&label=PROFILE+VIEWS&color=
 ## 🛠 TECH STACK
 <div align="center">
 <img
-src="https://skillicons.dev/icons?i=react,typescript,nodejs,nextjs,expressjs"
+src="https://skillicons.dev/icons?i=html,java,python,css"
 />
 </div>
 
@@ -95,22 +95,22 @@ src="https://skillicons.dev/icons?i=react,typescript,nodejs,nextjs,expressjs"
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codesofMihir&theme=tokyonight"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codesofMihir&theme=solarized-dark"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codesofMihir&theme=tokyonight&utcOffset=8"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codesofMihir&theme=solarized-dark&utcOffset=8"/>
     </td>
    </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codesofMihir&theme=tokyonight"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codesofMihir&theme=solarized-dark"/>
     </td>
    </tr>
 </table>
 <br>
 <img
 width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=codesofMihir&theme=tokyo-night&hide_border=true&area=true&bg_color=000000&color=FF007F&line=FF007F&point=ffffff"
+src="https://github-readme-activity-graph.vercel.app/graph?username=codesofMihir&theme=tokyo-night&hide_border=true&area=true&bg_color=000000&color=FF5500&line=FF5500&point=ffffff"
 />
 </div>
 
@@ -118,13 +118,13 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=codesofMihir
 
 ## 🔥 CONTRIBUTION STREAK
 <div align="center">
-![GitHub Streak](https://streak-stats.demolab.com/?user=codesofMihir&theme=tokyonight&hide_border=true&stroke=FF007F&ring=FF007F&fire=FF007F&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF007F&sideLabels=ffffff&dates=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=codesofMihir&theme=tokyonight&hide_border=true&stroke=FF5500&ring=FF5500&fire=FF5500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF5500&sideLabels=ffffff&dates=ffffff)
 </div>
 
 ---
 
 ## 🚀 FEATURED PROJECTS
-### 🌐 [READMEForge](https://github.com/john_doe/readmeforge)
+### 🌐 [READMEForge](https://github.com/codesofMihir)
 AI-powered custom GitHub Profile README generation platform.
 
 
@@ -138,7 +138,7 @@ src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-
 />
 <br>
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=500&color=FF007F&center=true&vCenter=true&width=900&lines=🎬+LIVE+CODING+SESSION+ACTIVE;⌨️+BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME;🔥+MIHIR%20PAUL+•+DEVELOPER+SPOTLIGHT;⚡+PUSHING+BOUNDARIES+•+CREATING+SOLUTIONS"
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=500&color=FF5500&center=true&vCenter=true&width=900&lines=🎬+LIVE+CODING+SESSION+ACTIVE;⌨️+BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME;🔥+MIHIR%20PAUL+•+DEVELOPER+SPOTLIGHT;⚡+PUSHING+BOUNDARIES+•+CREATING+SOLUTIONS"
 />
 <br>
 <table align="center">
@@ -199,7 +199,7 @@ src="https://raw.githubusercontent.com/codesofMihir/codesofMihir/output/github-c
 <div align="center">
 <img
 width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codesofMihir&theme=tokyonight"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codesofMihir&theme=solarized-dark"
 />
 </div>
 
