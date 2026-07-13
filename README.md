@@ -70,7 +70,161 @@ src="https://komarev.com/ghpvc/?username=codesofMihir&label=PROFILE+VIEWS&color=
 ---
 
 ## 🌍 CURRENT JOURNEY
-> 🤖 **AI-Generated Premium Bio:** A highly ambitious and performance-driven software artisan operating from the coordinates of **Jamshedpur**. Dedicated to shipping gorgeous client-side products and bulletproof architecture. Constantly testing new parameters, designing intuitive interactive modules, and keeping current on reactive paradigms.
+> 🤖 *AI-Generated Premium Bio:* A highly ambitious and performance-driven software artisan operating from the coordinates of *Jamshedpur*. Dedicated to shipping gorgeous client-side products and bulletproof architecture. Constantly testing new parameters, designing intuitive interactive modules, and keeping current on reactive paradigms.
+
+🧠 Learning modern web development and APIs  
+⚡ Building responsive client application grids  
+🎯 Improving system scale and layout flows  
+🚀 Exploring next-generation AI and developer solutions  
+🔥 Compiling projects consistently every single day
+
+---
+
+## 🛠️ TECH STACK
+<div align="center">
+<img
+src="https://skillicons.dev/icons?i=html,java,python,css"
+/>
+</div>
+
+---
+
+## ⚡ DEVELOPER ACTIVITY
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codesofMihir&theme=solarized-dark"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codesofMihir&theme=solarized-dark&utcOffset=8"/>
+    </td>
+   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codesofMihir&theme=solarized-dark"/>
+    </td>
+   </tr>
+</table>
+<br>
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=codesofMihir&theme=tokyo-night&hide_border=true&area=true&bg_color=000000&color=FF5500&line=FF5500&point=ffffff"
+/>
+</div>
+
+---
+
+## 🔥 CONTRIBUTION STREAK
+<div align="center">
+
+<!-- FIXED STREAK CODE - Proper syntax -->
+<img src="https://streak-stats.demolab.com/?user=codesofMihir&theme=tokyonight&hide_border=true&stroke=FF5500&ring=FF5500&fire=FF5500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF5500&sideLabels=ffffff&dates=ffffff" />
+
+</div>
+
+---
+
+## 🚀 FEATURED PROJECTS
+### 🌐 [READMEForge](https://github.com/codesofMihir)
+AI-powered custom GitHub Profile README generation platform.
+
+
+---
+
+## 🎥 DEVELOPER SPOTLIGHT
+<div align="center">
+<img
+width="100%"
+src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"
+/>
+<br>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=500&color=FF5500&center=true&vCenter=true&width=900&lines=🎬+LIVE+CODING+SESSION+ACTIVE;⌨️+BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME;🔥+MIHIR%20PAUL+•+DEVELOPER+SPOTLIGHT;⚡+PUSHING+BOUNDARIES+•+CREATING+SOLUTIONS"
+/>
+<br>
+<table align="center">
+<tr>
+<td align="center">🎯 TODAY'S FOCUS</td>
+<td align="center">🚀 PROJECT</td>
+<td align="center">⏰ SESSION TIME</td>
+</tr>
+<tr>
+<td align="center"><strong>Full Stack Dev</strong></td>
+<td align="center"><strong>Portfolio 2.0</strong></td>
+<td align="center"><strong>6h 42m</strong></td>
+</tr>
+</table>
+</div>
+
+## 🎧 DEV TUNES (WHILE YOU BROWSE)
+<div align="center">
+<a href="https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY">
+<img src="https://img.shields.io/badge/CODING%20PLAYLIST-Lofi%20Beats-ff6a00?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+<a href="https://music.youtube.com/playlist?list=RDCLAK5uy_kmrX0Vl4z0ui6vNnF9g7Az7gGZb_5Jvq8">
+<img src="https://img.shields.io/badge/FOCUS%20MIX-Chill%20Vibes-ff8800?style=for-the-badge&logo=youtubemusic&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">
+<img src="https://img.shields.io/badge/LIVE%20RADIO-Lofi%20Girl-ffaa00?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<br><br>
+🎵 Click any badge above to open your coding soundtrack 🎵
+</div>
+
+## 🐍 SNAKE INFRASTRUCTURE
+<div align="center">
+<img
+width="100%"
+src="https://raw.githubusercontent.com/codesofMihir/codesofMihir/output/github-contribution-grid-snake-dark.svg"
+/>
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS
+🏅 Consistent Learner  
+🏅 Frontend Development Mastery  
+🏅 Open Source Journey Enthusiast  
+🏅 Building Projects Every Week  
+🏅 Exploring New Tech Coordinates
+
+## ☕ FUN FACTS
+💻 I enjoy coding and experimenting with state loops  
+🌙 I love building late at night with music  
+🎯 Always improving my system architecture skills  
+🔥 Turning creative ideas into custom SaaS software
+
+---
+
+## 📊 INTERACTIVE STATS DASHBOARD
+<div align="center">
+<img
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codesofMihir&theme=solarized-dark"
+/>
+</div>
+
+## 🗺️ ADVANCED LEARNING ROADMAP
+```mermaid
+graph LR
+A[HTML/CSS] --> B[JavaScript ES6]
+B --> C[React + Redux]
+C --> D[Node.js + Express]
+D --> E[MongoDB]
+E --> F[Full Stack Apps]
+B --> G[TypeScript]
+G --> H[Next.js]
+H --> I[Performance Optimization]
+style A fill:#ff6a00,stroke:#333,stroke-width:2px
+style B fill:#ff8800,stroke:#333,stroke-width:2px
+style C fill:#ffaa00,stroke:#333,stroke-width:2px
+style D fill:#ffcc00,stroke:#333,stroke-width:2px
+style E fill:#ffee00,stroke:#333,stroke-width:2px
+style F fill:#00ff00,stroke:#333,stroke-width:4px
+style G fill:#ffaa33,stroke:#333,stroke-width:2px
+style H fill:#ffcc66,stroke:#333,stroke-width:2px
+style I fill:#66ff66,stroke:#333,stroke-width:4pxproducts and bulletproof architecture. Constantly testing new parameters, designing intuitive interactive modules, and keeping current on reactive paradigms.
 
 🧠 Learning modern web development and APIs  
 ⚡ Building responsive client application grids  
